@@ -1,0 +1,12 @@
+app:
+  baseUrl: "https://bfhldevapigw.healthrx.co.in"
+  generatePath: "/hiring/generateWebhook/JAVA"
+  fallbackSubmitPath: "/hiring/testWebhook/JAVA"
+  name: "John Doe"
+  regNo: "REG12347"
+  email: "john@example.com"
+
+logging:
+  level:
+    root: INFO
+    com.example.hiring: DEBUG
