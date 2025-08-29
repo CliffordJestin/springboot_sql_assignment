@@ -2,9 +2,9 @@ app:
   baseUrl: "https://bfhldevapigw.healthrx.co.in"
   generatePath: "/hiring/generateWebhook/JAVA"
   fallbackSubmitPath: "/hiring/testWebhook/JAVA"
-  name: "John Doe"
-  regNo: "REG12347"
-  email: "john@example.com"
+  name: "Clifford Jestin"
+  regNo: "22BHI10155"
+  email: "cliffordjestin2022@vitbhopal.ac.in"
 
 logging:
   level:
